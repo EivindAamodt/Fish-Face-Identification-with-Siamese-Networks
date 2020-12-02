@@ -2,6 +2,8 @@
 
 Final project for IKT450-G Deep Neural Networks
 
+UiA article about the project: https://www.uia.no/en/news/developing-facial-recognition-to-track-fish
+
 Requirements:
 1. Pytorch
 
