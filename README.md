@@ -4,7 +4,7 @@ Final project for IKT450-G Deep Neural Networks
 
 UiA article about the project: https://www.uia.no/en/news/developing-facial-recognition-to-track-fish
 
-Requirements:
+#### Requirements:
 1. Pytorch
 
 2. Dataset must have each class in its own folder. I made a small python file called `makedirectories.py` which is located inside `siamesenetwork/data`
