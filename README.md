@@ -11,3 +11,6 @@ Requirements:
 
 Link to his github project: https://github.com/harveyslash/Facial-Similarity-with-Siamese-Networks-in-Pytorch
 And his article: https://hackernoon.com/one-shot-learning-with-siamese-networks-in-pytorch-8ddaab10340e
+
+
+#### `Git clone` can take a while, because i uploaded the entire image dataset as well so it is runnable without having to download and modify the dataset yourself.
