@@ -4,7 +4,9 @@ Final project for IKT450-G Deep Neural Networks
 
 Requirements:
 1. Pytorch
-2. Dataset must have each class in its own folder. I made a small python file called `makedirectories.py` which is located inside `wrasse`
+<<<<<<< HEAD
+2. Dataset must have each class in its own folder. I made a small python file called `makedirectories.py` which is located inside `data`
+
 
 
 ### This project is largely based on harveyslash's siamese network on AT&T face dataset.
