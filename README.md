@@ -7,7 +7,7 @@ Requirements:
 
 2. Dataset must have each class in its own folder. I made a small python file called `makedirectories.py` which is located inside `siamesenetwork/data`
 
-
+You can change what dataset to run it on (face sameway, face bothways, body sameway, body bothways) in the `Config` class inside `siamese:network.py`
 
 ### This project is largely based on harveyslash's siamese network on AT&T face dataset.
 
