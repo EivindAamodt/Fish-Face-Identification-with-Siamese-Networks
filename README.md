@@ -4,6 +4,8 @@ Final project for IKT450-G Deep Neural Networks
 
 UiA article about the project: https://www.uia.no/en/news/developing-facial-recognition-to-track-fish
 
+New NRK article: https://www.nrk.no/vestland/slik-skal-laksens-eigen-face-id-skilja-mellom-oppdrettsfisk-og-villaks-1.15503423
+
 #### Requirements:
 1. Pytorch
 
